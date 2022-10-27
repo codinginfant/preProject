@@ -8,6 +8,8 @@ public class CrudExApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrudExApplication.class, args);
+
+		System.out.println(test);
 	}
 
 }
